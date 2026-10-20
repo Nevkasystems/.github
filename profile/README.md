@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/wordmark-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/wordmark-light.png">
-    <img alt="NevkaSystems" src="./assets/wordmark-light.png" width="640">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/wordmark-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/wordmark-light.svg">
+    <img alt="NevkaSystems" src="./assets/wordmark-light.svg" width="600">
   </picture>
 </p>
 
