@@ -1,47 +1,39 @@
-<details>
-<summary><a name="lab-entrance"><img src="./profile/assets/hero.svg" width="1200" alt="NevkaSystems — Software built around your world. Click to enter the animated engineering lab and explore our process."></a></summary>
-<br>
-<img src="./profile/assets/lab-open.svg" width="1200" alt="Our process: discover the problem, design the experience, build and test, launch, then improve.">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/assets/wordmark-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/assets/wordmark-light.svg">
+    <img alt="NevkaSystems" src="./profile/assets/wordmark-light.svg" width="520">
+  </picture>
+</p>
 
-We work with you from the first product decisions through development, release and ongoing improvements.
-
-**Discover → Design → Build → Launch → Evolve**
-
-</details>
+<h3 align="center">Software built around your world.</h3>
 
 <p align="center">
-  Product design and software engineering for <b>education</b>, <b>AI</b> and <b>fintech</b>.
+  Product design and software engineering for education, AI and fintech.
 </p>
-
-## Explore what we build
 
 <p align="center">
-  <a href="https://nevkasystems.com/education"><img src="./profile/assets/education.svg" width="400" alt="Education: learning platforms, assessment and academy operations."></a>
-  <a href="https://nevkasystems.com/ai"><img src="./profile/assets/ai.svg" width="400" alt="AI software: knowledge search, document workflows and human review."></a>
-  <a href="https://nevkasystems.com/fintech"><img src="./profile/assets/fintech.svg" width="400" alt="Fintech: accounts, payments, ledgers and connected operations."></a>
-  <a href="https://nevkasystems.com/"><img src="./profile/assets/engineering.svg" width="400" alt="Product engineering: design, development, release and ongoing support."></a>
+  <a href="https://nevkasystems.com/">Website</a> ·
+  <a href="https://nevkasystems.com/contact">Start a conversation</a> ·
+  <a href="mailto:info@nevkasystems.com">Email</a>
 </p>
 
-<details>
-<summary><a name="engineering-notebook"><img src="./profile/assets/notebook.svg" width="1200" alt="Open the engineering notebook — technology and the way we work."></a></summary>
-<br>
-<img src="./profile/assets/stack.svg" width="1200" alt="Interfaces: Next.js and React. Services: Python, Rust and Go. Data and workflows: PostgreSQL, Kafka and Temporal. Infrastructure: AWS and Kubernetes.">
+---
 
-The product’s requirements shape the stack. We plan the experience, integrations and day-to-day operation together.
+### What we build
 
-- **Clear decisions:** scope, architecture and priorities you can review.
-- **Visible progress:** working software, testing and regular feedback.
-- **A considered handover:** documentation, source code and agreed account access.
+- **[Education](https://nevkasystems.com/education)** — Learning platforms, assessment tools and academy operations.
+- **[AI software](https://nevkasystems.com/ai)** — Knowledge search, document processing and assisted workflows.
+- **[Fintech](https://nevkasystems.com/fintech)** — Accounts, payments, financial records and operations workspaces.
 
-</details>
+### How we work
 
-## Build with NevkaSystems
+We help teams shape a product, design the experience, build and test the software, and prepare it for release. Clear scope, regular feedback and documented decisions keep the work understandable.
 
-Tell us about the product you want to create or the platform you want to improve.
+Our work includes new products, improvements to existing platforms, integrations and ongoing support.
 
-<p>
-  <a href="https://nevkasystems.com/"><img src="./profile/assets/website.svg" width="230" alt="Explore our work on nevkasystems.com"></a>
-  <a href="https://nevkasystems.com/contact"><img src="./profile/assets/contact.svg" width="272" alt="Start a conversation with NevkaSystems"></a>
-</p>
+### Build with us
 
-[nevkasystems.com](https://nevkasystems.com/) · [info@nevkasystems.com](mailto:info@nevkasystems.com)
+Tell us what you want to create or improve.
+
+**[nevkasystems.com](https://nevkasystems.com/)** · **[info@nevkasystems.com](mailto:info@nevkasystems.com)**
